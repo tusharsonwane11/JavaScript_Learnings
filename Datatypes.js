@@ -15,4 +15,6 @@ let fname = "Tushar"
 let age = 28
 let isFollow = true
 
-console.log(typeof[fname]);
+console.log(typeof age);
+console.log(typeof fname);
+console.log(typeof isFollow);
